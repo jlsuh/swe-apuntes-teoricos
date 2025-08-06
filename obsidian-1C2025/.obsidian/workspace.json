@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "ac5e29a35289c39a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c252ad404ebe732",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83fe6fb81cc8f288",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6dc8ee03f362896e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0ce4442c74e64d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c2d3b83e6f681f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "17ac0cc377ff161c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e0e128115cc6022b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "right": {
+    "id": "d91a9a7b0ba050a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "73199f9f5dd2c075",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac024effd47a816f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "303119341e88ba19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "preguntas-swe/preguntas-swe.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of preguntas-swe"
+            }
+          },
+          {
+            "id": "418a9d7b16f0f717",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "31ccdfa9dd127ce2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05-scm/03-funciones-de-scm-swebok.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03-funciones-de-scm-swebok"
+            }
+          },
+          {
+            "id": "4ea578d4ff782422",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-modelos-de-calidad-de-sw/04-piramide-de-jerarquia-de-factores-de-calidad.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 04-piramide-de-jerarquia-de-factores-de-calidad"
+            }
+          },
+          {
+            "id": "647ad4d08216cdbc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "70cbcd6c4a0b563c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "83fe6fb81cc8f288",
+  "lastOpenFiles": [
+    "05-scm/05-sc-identification.md",
+    "03-swe-approaches/04-obl-chapter-2-standing-on-principle.md",
+    "05-scm/07-sc-status-and-accounting.md",
+    "05-scm/08-sc-auditing.md",
+    "06-sqa-testing/06-obl-qa-when-two-eyes-arent-enough.md",
+    "06-sqa-testing/04-obl-qc-testing-exploratory-testing-explained.md",
+    "06-sqa-testing/07-enfoques-de-prueba.md",
+    "07-sw-metrics/04-clasificacion-metricas.md",
+    "06-sqa-testing/12-cuestiones-tp.md",
+    "parciales-1C2025/2P/2do-parcial-schivo-reitano-2025-06-24.tm~",
+    "05-scm/12-obl-but-i-only-changed-one-line-of-code.md",
+    "02-modelos-de-calidad-de-sw/08.6-seguridad.md",
+    "05-scm/06-sc-change-control.md",
+    "05-scm/01-intro-definicion-scm-que-es-el-sw.md",
+    "devnull/devnull.md",
+    "05-scm/04-management-of-the-scm-process.md",
+    "05-scm/02-conceptos-clave-scm.md",
+    "06-sqa-testing/01-conceptos-generales.md",
+    "06-sqa-testing/01.2-paragua-sqa.png",
+    "06-sqa-testing/11-conclusiones.md",
+    "06-sqa-testing/10-principios-basicos-para-tener-en-cuenta.md",
+    "06-sqa-testing/09-modelos-de-ciclos-de-testing.md",
+    "06-sqa-testing/08-tipos-de-prueba.md",
+    "07-sw-metrics/06-aspectos-a-tener-en-cuenta-para-el-2do-parcial.md",
+    "07-sw-metrics/05-conclusiones.md",
+    "07-sw-metrics/03-gqm.md",
+    "07-sw-metrics/02-indicadores-kpi.md",
+    "05-scm/10.6-agile-dev-ci-cd.gif",
+    "06-sqa-testing/02.1-el-proceso-de-testing.png",
+    "05-scm/12.2-the-sw-change-process.png",
+    "05-scm/06.1-sccb.png",
+    "07-sw-metrics/06.1.png",
+    "07-sw-metrics/03.1-gqm-example.png",
+    "06-sqa-testing/09.1-sw-testing-abilities.png",
+    "06-sqa-testing/09.4-cuadrantes-niveles-y-tipos-de-testing.png",
+    "06-sqa-testing/08.2-prueba-de-volumen.png",
+    "07-sw-metrics",
+    "06-sqa-testing/Untitled",
+    "06-sqa-testing",
+    "preguntas-swe",
+    "parciales/1er-parcial-schivo-reitano-2025-05-13.pdf",
+    "parciales/1er-parcial-schivo-reitano-2025-05-13.tm~",
+    "parciales/1er-parcial-schivo-reitano-2025-05-13.tm",
+    "parciales",
+    "04-sw-estimation-concepts/11-ejercicios-estimaciones-parametricos.pdf"
+  ]
+}

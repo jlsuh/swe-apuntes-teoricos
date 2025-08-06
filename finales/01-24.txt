@@ -1,0 +1,9 @@
+1) Explicar en qué se basa la metodología LEAN.
+2) Explicar la visión del usuario.
+3) ¿Qué es el oráculo? Y explicar 3 de los HICCUPP.
+4) Nombrar una métrica para medir fiabilidad.
+5) V o F: un defecto siempre genera una falla (es falsa).
+6) ¿Qué es y qué mide la complejidad ciclomática?
+7) Nombrar 3 ventajas que le encuentra al método de Planning Poker.
+8) Nombrar 3 ventajas de la inspección contra el testing creo que era.
+9) Creo que te preguntaba qué es la "estabilidad" del software (relacionado con la unidad de Calidad). Ni idea, este tema no lo dieron en mi curso.

@@ -1,0 +1,47 @@
+La modalidad eran 10 preguntas: 8 Multiple choice (sin justificar) y 2 a desarrollar. El desarrollo lo hacías en la misma hoja que te daban las consignas.
+Te daban 40 minutos para resolverlo pero en 20 ya terminabas.
+
+De los multiple solo pongo las correctas porque no me acuerdo todo.
+
+1) Cynefin: Contexto complicado: Afirmaciones verdaderas.
+Se necesita un experto para aplicar buenas prácticas
+Se conoce la relación causa efecto
+
+2) ISO 25000: Te daba la definición del subatributo Integridad de Seguridad, pero no estaba en la lista.
+Ninguna de las anteriores
+
+3) Particiones: Te daban una situación que era para devolver compras del Black Friday. "Solo se puede devolver compras entre el 10 y el 19 de diciembre y el 4 y 5 de Enero del 2023 para los que no pudieron hacerlo previamente"
+Se generan 4 condiciones de borde
+El 10 de diciembre y el 5 de enero tienen el mismo comportamiento
+
+4) Scrum: Marcar las incorrectas sobre responsabilidades del Scrum Master y el PO
+El PO se encarga de arreglar los problemas del equipo
+El PO es el dueño del proceso
+El Scrum Master es el que define los requerimientos de cada Sprint
+
+5) Oracle Testing: Afirmaciones verdaderas:
+Los oráculos son mecanismos que indican que algo está bien porque una persona así lo afirma
+Se puede utilizar exploratory testing en conjunto con oraculos
+Las heurísticas son guías falibles para...
+
+6) Era de SCM pero no me acuerdo la pregunta. Iba con definiciones también de IC, configuración, baseline.
+
+7) Testing: Complejidad ciclomática: Marcas la o las correctas:
+Se puede tener el 100% de cobertura de sentencias pero no el 100% de cobertura de condiciones
+Un programa con 15 LoC y 2 decisiones y otro con 20 LoC y 2 decisiones pueden no tener la misma complejidad
+
+8) SCM: Se tiene un proyecto "ACME" y se observa lo siguiente en base a una baseline. Marcar las correctas:
+Un IC que estaba en la versión anterior ahora ya no está
+Apareció un IC nuevo
+
+9) Requerimientos No Funcionales: Describir 3 y un test para validarlos.
+En este caso, yo me equivoqué porque puse la "Categoría" del requerimiento y no un ejemplo en sí. (Me lo aclaró la docente al final)
+
+Lo ideal era poner: "Capacidad --> 1000 Usuarios concurrentes --> Test de stress"
+
+10) Wideband Delphi: Mencionar 5 ventajas o fortalezas
+Facil de implementar
+Se puede utilizar el etapas tempranas del proyecto
+Se puede utilizar en proyectos sin historia
+Genera un sentido de propiedad en los integrantes ya que todos participantes para lograr la estimación
+Soluciona el problema de tener un único estimador ya que ahora hay grupos que lo realizan

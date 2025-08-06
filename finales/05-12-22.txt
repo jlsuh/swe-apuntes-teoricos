@@ -1,0 +1,48 @@
+Al margen de este horrible inconveniente, les dejo más o menos la dinámica del final...
+Tiempo: 40 minutos
+Modalidad: Escrita presencial
+El final constaba de dos partes: Una parte A a desarrollar (70% de la nota) y otra parte B siendo un V/F sin justificaciones (30% de la nota)
+
+La parte A eran 10 preguntas que abarcaban entre 1 y 2 preguntas de cada una de las 7 unidades de la materia. Las preguntas (parafraseando) eran:
+1. El diagrama causa y efecto se usa para conocer los problemas del desarrollo de SW. V/F
+Falso. Identifica las causas de un problema
+(Rta. correcta)
+
+2. ¿Qué es el SWEBoK y para qué lo utilizaría?
+Software Engineering Body Of Knowledge. Sirve para tratar al desarrollo de Software como una ciencia, con marco teórico y práctico, aplicable como un área de la ingeniería. Se podría utilizar para definir procesos que luego servirán como fundamentos a la hora de desarrollar el SW
+(Rta. parcialmente correcta)
+
+3. Similitudes y diferencias entre SCRUM y KANBAN.
+Ambas sirven para proyectos del tipo incremental.
+SCRUM sirve en contextos cynefin complejos, KANBAN en caóticos.
+SCRUM tiene roles, KANBAN no.
+(Rta. parcialmente correcta. Faltaba poner alguna similitud más de acuerdo al desarrollo de proyectos)
+
+4. Similitudes y diferencias entre Testing exploratorio y oráculos de testing.
+Ambas sirven sobre testeo dinámico
+Ambas sirven para testear caja negra y caja blanca
+Oráculos es testeo scripted. Exploratorio sale de ese contexto
+(Rta. parcialmente correcta. Se corrigió en este texto para que quede bien)
+
+5. Diferencias entre testeo estático y dinámico. Ejemplos de testeo estático
+La diferencia entre ambos es que dinámico es con el SW en ejecución, mientras que el estático no. Ejemplos de testeo estático: cobertura de sentencias, cobertura de decisiones, cobertura de condiciones, flujo de camino básico y complejidad ciclomática.
+(Rta. correcta)
+
+6. Métodos no paramétricos no estiman tamaño. V/F
+Falso. Todos estiman tamaño (No recuerdo si era correcta o no)
+
+7. Conviene tener varios repositorios para un proyecto, para aumentar productividad y seguridad. V/F
+Falso. Conviene tener un único repositorio, para saber dónde estamos trabajando. Para productividad, branching; para seguridad, baselines.
+(Rta. correcta)
+
+8. Se tienen siempre los mismos IC en una baseline, pero pueden variar las versiones. V/F
+Falso. No necesariamente se tienen siempre los mismos IC; pueden aparecer nuevos o sacarse algunos. Además, no siempre tienen por qué tener las mismas versiones.
+(Rta. correcta)
+
+9. Tipos de pruebas dinámicas
+Volume Test, Stress Test, User Acceptance Test, Test Unitario, Test de Integración, Test de performance, Test de Usabilidad, Smoke Test, Test de Seguridad, Test de Regresión.
+(Rta. correcta)
+
+10. MTBF (Mean Time Between Failures) y MTTR (Mean Time To Recover) son buenas métricas para evaluar nuestros recursos. V/F
+Falso. MTBF y MTTR son buenas métricas para evaluar la fiabilidad del sistema (ISO 25000).
+(Rta. correcta)

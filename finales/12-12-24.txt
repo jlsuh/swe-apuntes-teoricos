@@ -1,0 +1,76 @@
+Buenas gente, paso lo que me acuerdo del final tomado ayer 12/12 dia del Club Atletico Boca Juniors.
+Lo tomaron Dalceggio Marcelo, Mansilla Diego y la profe que siempre me olvido el nombre pobre.
+
+10 preguntas, 7 VOF 3 a desarrollar.
+
+1) SITUACIÓN: Un Project Manager encuentra que su proyecto está retrasado
+y empieza a considerar sumar recursos (personas) al proyecto para
+recuperar las demoras en el calendario en las tareas que tiene por delante.
+¿Bajo qué condiciones le diría que puede hacerlo?
+Seleccione la opción correcta:
+1. Las tareas por delante son independientes
+2. Las tareas por delante requieren baja o nula comunicación entre ellas
+3. Las tareas por delante requieren baja supervisión
+
+rta: todas son correctas
+
+2) 5 vof
+a) uno sobre si una empresa con metodologia agile era compatible con la 2da norma de CMMI (o algo asi)
+b) uno decia que la vision del producto se fijaba en la adecuacion al proposito
+c) uno sobre timebox
+d) [...] perdonen mi gente querida no me da la memoria para acordarme los otros 2 pero eran faciles
+
+3) tenias que definir 5 atributos de calidad del SW, los que vos quieras, pero explicarlos y nombrar subatributos
+
+4) SITUACIÓN: Armando su estrategia de prueba, y considerando hacer caja negra y caja
+blanca, llega a las siguientes conclusiones. Marque a continuación la afirmación
+INCORRECTA:
+● En caja blanca, si no tiene los requerimientos escritos, podrá requerir a
+heurísticas de prueba del estilo HICCUPP Heuristic
+● Para la prueba de caja blanca se basará en la estructura interna del componente y
+su definición
+● La prueba de caja blanca le permitirá encontrar fallas que nunca encontraría en caja
+negra
+● La prueba de aceptación de usuario la planteará como una prueba eminentemente
+de caja negra
+● Cuanto más cohesivos sean los componentes de un SW, más compleja es la
+prueba.
+
+rta: la A
+
+5) te daban para que pongas 3 requisitos no funcionales y que escribas con que tests podrian solucionarse
+ej: que mi SW se banque a la madrugada 5000 req/seg ----> usaria un test de performance o stress
+
+6) SITUACIÓN: En el marco del entendimiento del contexto de un proyecto
+para tomar las mejores decisiones, Ud identifica de acuerdo al modelo
+Cynefin que conoce perfectamente la relación causa-efecto (es decir, que si
+realiza A conoce que el resultado será B).
+¿En qué marco se identificó estar? Seleccione la opción CORRECTA:
+Seleccione una:
+a. Simple
+b. Caótico
+c. Complicado
+d. Complejo
+
+rta: simple + el profe dijo que pongamos tmb una justificacion aca porque estaba regalado
+
+7) nombrar 5 ventajas/fortalezas del metodo Planning Poker
+
+8) explicar le rol del step 3 de SCM: Status & Accounting: era desarrollar en 3 o 4 renglones que hacia
+
+9) SITUACIÓN: Dada una observación de auditoría, tiene que replantear su proceso de Administración de
+Cambios en Producción.
+Marque la respuesta INCORRECTA:
+Seleccione una:
+a. Los cambios de emergencia pueden impactarse y regularizarse a posteriori
+b. El SCCB puede rechazar un cambio del Product Owner
+c. Un cambio que es aprobado para ser desarrollado puede ser rechazado definitivamente a la hora de su
+despliegue
+d. Todo despliegue a Producción (automático o no) debe registrarse como un cambio
+e. Los cambios que se deshacen ("vuelta atrás") pueden o no registrarse
+
+rta: esta la hice mal, nose la rta
+
+10) y esta no me acuerdo pero era facil, la unica que hice mal la anterior
+
+daban 40 min, lo hacias en menos[/b]
